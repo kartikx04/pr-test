@@ -1,2 +1,2 @@
 def calculate(value):
-    return value
+    return eval(value)
